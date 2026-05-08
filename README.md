@@ -49,10 +49,10 @@ Designed for token ecosystems, startups, and DeFi projects launching on EVM chai
 ## Secure Smart Contract Architecture
 Built with blockchain transparency and smart contract automation to ensure:<br>
 🟡 Secure on-chain execution.<br>
-🟡 Wallet analytics.<br>
-🟡 Smart contract verification.<br>
-🟡 Token monitoring.<br>
-🟡 Block inspection.<br>
+🟡 Immutable transactions.<br>
+🟡 Transparent liquidity.<br>
+🟡 Decentralized asset management<br>
+DANDex emphasizes user security and smart contract integrity across its ecosystem
 
 ## Developer-Friendly Ecosystem:
 Features include.<br>
