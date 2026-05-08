@@ -22,38 +22,29 @@ BNB Chain
 Fast & Low-Cost Transactions
 
 Powered by optimized blockchain infrastructure, DANDex provides:
-🔒 High-speed token swaps
-🔒 Low gas fees
-🔒 Efficient liquidity routing
-🔒 Reduced transaction latency
+💡 High-speed token swaps<br>
+💡 Low gas fees<br>
+💡 Efficient liquidity routing<br>
+💡 Reduced transaction latency<br>
 
 Making it ideal for DeFi traders, staking platforms, and Web3 applications
 
-Supported tools include:
+##🌐 Automated Market Maker (AMM)
+DANDex utilizes AMM technology to enable decentralized liquidity and instant token exchange without traditional order books.
+Features include:
 
-🔒 MetaMask<br>
-🔒 Remix IDE<br>
-🔒 Hardhat<br>
-🔒 Truffle<br>
-🔒 Web3.js<br>
-🔒 Trust Wallet<br>
+✅ Automated liquidity pools<br>
+✅ Permissionless trading<br>
+✅ Real-time swaps<br>
+✅ Efficient price discovery<br>
 
-##🌐 Secure Proof-of-Authority Consensus
-Powered by an advanced Proof-of-Authority (PoA) consensus mechanism, DannyChain ensures:
-
-✅ Faster block confirmations<br>
-✅ Stable network performance<br>
-✅ Enterprise-grade security<br>
-✅ High throughput scalability<br>
-
-# 💎 Advanced Smart Contract Support
-DannyChain supports secure and efficient smart contract deployment for:<br>
-🛡️ DeFi Platforms.<br>
-🛡️ NFT Ecosystems.<br>
-🛡️ Tokenized Assets.<br>
-🛡️ Staking Systems.<br>
-🛡️ DAO Infrastructure.<br>
-🛡️ Web3 Applications.<br>
+# 💎 Liquidity Pool Management
+Users and project owners can:
+🛡️ Create liquidity pools.<br>
+🛡️ Add or remove liquidity.<br>
+🛡️ Import custom pools.<br>
+🛡️ Manage decentralized market pairs.<br>
+Designed for token ecosystems, startups, and DeFi projects launching on EVM chains.
 
 ## Integrated Blockchain Explorer:
 Monitor real-time blockchain activity through the integrated explorer system, including:<br>
