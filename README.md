@@ -54,58 +54,16 @@ Built with blockchain transparency and smart contract automation to ensure:<br>
 🟡 Decentralized asset management<br>
 DANDex emphasizes user security and smart contract integrity across its ecosystem
 
-## Developer-Friendly Ecosystem:
-Features include.<br>
-📘 Public RPC Access.<br>
-📘 REST APIs.<br>
-📘 WebSocket Support.<br>
-📘 SDK Integration.<br>
-📘 Cross-platform Compatibility.<br>
+## Built for the Future of DeFi
+DANDex combines:<br>
+📘 Decentralization.<br>
+📘 Scalability.<br>
+📘 Security.<br>
+📘 Cross-chain compatibility.<br>
+📘 User-controlled finance.<br>
+Into a modern decentralized exchange infrastructure designed for the next generation of blockchain innovation.
 
-# ✨ AI + Web3 Ready
-Designed for the future of decentralized technology, DannyChain supports AI-integrated blockchain solutions, <br>enabling intelligent automation, secure digital identity, and scalable decentralized infrastructure.
+# Use Dandex
+🌐 Website: https://www.dandex.io
 
-# 🔒 Enterprise-Grade Security
-Security-focused architecture with:
-📗 Network monitoring.<br>
-📗 Encrypted communication.<br>
-📗 Secure validator infrastructure.<br>
-📗 Smart contract verification.<br>
-📗 Compliance-ready framework.<br>
-
-# 📒 Scalable Ecosystem Expansion
-🔗 DannyChain is built to support a growing Web3 ecosystem including: <br>
-💡 Decentralized Exchanges (DEX).<br>
-💡 Wallet Integration.<br>
-💡 Payment Systems.<br>
-💡 GameFi Applications.<br>
-💡 AI Infrastructure.<br>
-💡 Cross-chain Services.<br>
-
-# 🌐 Blockchain Information
-📌 Network name: Danny<br>
-📌 RPC URL: rpc.dannyscan.com<br>
-📌 Chain ID: 5069<br>
-📌 Currency symbol: DAN<br>
-📌 Block explorer URL: dannyscan.com<br>
-
-# Contact Dannychain
-
-🌐 Website: https://www.dannychain.com
-
-👥 Twitter: https://x.com/Dan74668
-
-🧑‍🤝‍🧑 Facebook: https://www.facebook.com/danchain69/
-
-💡 Telegram Group: https://t.me/dannycoin2024
-
-▶️ Youtube: https://youtube.com/@DannyCoin-t7b
-
-⚪ Block explorer: https://dannyscan.com
-
-⚪ DEX Exchange: https://dandex.io
-
-⚪ Bridge: https://dannychain.online
-
-⚪ Dexchart: https://dannychart.com
 # Danny Chain
